@@ -42,14 +42,6 @@
 
 <br/>
 
-
-## Spotify Playing 🎧
-
-<img src="https://spotify-now-playing..vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10px;" />
-
-
-<br>
-
 ![Juan Camilo's github stats](https://github-readme-stats.vercel.app/api?username=camilogarcesv&count_private=true&show_icons=true&theme=buefy&include_all_commits=true)
 <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camilogarcesv&theme=buefy&l)
