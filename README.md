@@ -42,11 +42,13 @@
 
 <br/>
 
-<a href="https://github.com/camilogarcesv">
+<!-- <a href="https://github.com/camilogarcesv">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camilogarcesv&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilogarcesv&theme=buefy&layout=compact" />
-</a>
-
+</a> -->
+![Juan Camilo's github stats](https://github-readme-stats.vercel.app/api?username=camilogarcesv&count_private=true&show_icons=true&theme=buefy&include_all_commits=true)
 <br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camilogarcesv&theme=buefy&l)
+
 
 
