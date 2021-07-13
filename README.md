@@ -1,4 +1,8 @@
-[![GitHub Header camilogarcesv](https://raw.githubusercontent.com/camilogarcesv/camilogarcesv/main/assets/github-cover.png)]
+![GitHub Header camilogarcesv](https://raw.githubusercontent.com/camilogarcesv/camilogarcesv/main/assets/github-cover.png)
+<p align='center'>
+  <a href="https://www.linkedin.com/in/juancamilogarcesviveros/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://platzi.com/p/juan-camilo-garces/"><img src="https://img.shields.io/badge/Platzi-98CA3F.svg?&style=for-the-badge&logo=platzi&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 <h2> Hey there! I'm Juan Camilo.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -18,11 +22,12 @@
   ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
 
 - 💻 &nbsp;
-  ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp)
+  ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp&logoColor=953dad)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -44,11 +49,4 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
-<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
-</p>
