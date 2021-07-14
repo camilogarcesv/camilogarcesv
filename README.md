@@ -43,7 +43,7 @@
 <h3> 🚀 &nbsp;Projects</h3>
 I really like doing projects related to Frontend and UX experience. I preffer using React as my main library/framework tool but I also have worked with JavaScript Vanilla<br><br>
 Some of my projects:<br>
-<li> <a href="ogmapp.xyz">Ogma App</a></li>
+<li> <a href="https://ogmapp.xyz">Ogma App</a></li>
 <li> <a href="https://opencontractmx.netlify.app/">OpenContractMX</a></li>
 
 ***
