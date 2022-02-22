@@ -8,7 +8,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Multimedia Engineer from Autonoma de Occidente University.
-- 💼 &nbsp; Working as a Software Developer at Movi Software.
+- 💼 &nbsp; Working as a Frontend Developer at Sophilabs.
 - 🤔 &nbsp; Exploring new technologies, developing software solutions and quick hacks.
 - 🌱 &nbsp; Learning more about Web Development, User Experience and accessibility.
 
