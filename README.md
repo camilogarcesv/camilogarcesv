@@ -45,7 +45,10 @@
 I really like doing projects related to Frontend and UX experience. I preffer using React as my main library/framework tool but I also have worked with JavaScript Vanilla<br><br>
 Some of my projects:<br>
 <li> <a href="https://ogmapp.xyz">Ogma App</a></li>
+<p>Web application in which users practice for job interviews answering questions related to technologies such as JavaScript, and Python, and measure their progress
+</p>
 <li> <a href="https://opencontractmx.netlify.app/">OpenContractMX</a></li>
+<p>Project developed by Platzi Master Students in order to catch more than 350,000 public contracts published by the Government of Mexico and show them in an easy way for reporters, researchers and similars so they can get great information about how the government spends in the different areas.</p>
 
 ***
 
